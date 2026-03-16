@@ -12,9 +12,6 @@ Enthusiastic Electronics and Communication Engineering graduate with hands-on tr
 ![](https://nirzak-streak-stats.vercel.app/?user=chaitanya407&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya407&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chaitanya407&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -24,4 +21,4 @@ Enthusiastic Electronics and Communication Engineering graduate with hands-on tr
 ---
 [![](https://visitcount.itsvg.in/api?id=chaitanya407&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># new
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
